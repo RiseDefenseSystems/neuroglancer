@@ -68,7 +68,7 @@
     "eslint-rspack-plugin": "^4.2.1",
     "express": "^4.21.2",
     "fzstd": "^0.1.1",
-    "glob": "^11.0.1",
+    "glob": "^11.1.0",
     "http-server": "^14.1.1",
     "jsdom": "^26.0.0",
     "msw": "^2.7.0",
